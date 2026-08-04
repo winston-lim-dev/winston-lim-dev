@@ -1,17 +1,32 @@
-# Hi, I'm Winston 👋
+# Hi, I'm Winston Lim 👋
 
-Learning and building AI applications with Python.
+Python Developer | AI Application Builder | Business Process Automation
 
-## Current Project
+I build practical software solutions that combine AI, data processing, automation, and real-world workflows.
 
-📄 Local RAG Assistant
-- Streamlit
+---
+
+## Featured Projects
+
+### 📚 Local RAG Assistant
+
+- PDF ingestion
+- Semantic search
 - ChromaDB
-- Ollama
-- Llama 3
+- Ollama integration
+
+### 📈 AI Financial Research Assistant
+
+- Financial analytics
+- Plotly dashboards
+- AI-generated research reports
+- Ollama + Llama 3
+
+---
 
 ## Currently Learning
 
-- Retrieval-Augmented Generation (RAG)
-- Vector Databases
-- Local LLMs
+- Automated Trading Systems
+- Interactive Brokers API
+- Event Logistics Automation
+- Python Design Patterns
